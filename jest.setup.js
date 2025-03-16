@@ -1,0 +1,1 @@
+require('@testing-library/jest-dom'); // 导入 @testing-library/jest-dom 库，它提供了一组自定义的 Jest 匹配器，用于断言 DOM 节点的状态。这些匹配器让你可以使用如 toBeInTheDocument()、toHaveTextContent() 等方法来测试 DOM 元素。 
